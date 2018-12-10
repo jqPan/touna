@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://file.touna.cn/app/tmp1127/ckd_ios.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/41/14/bb411451-1506-9635-2ffb-a903a23aa1e8/AppIcon-1x_U007emarketing-85-220-4.png/230x0w.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/bb/41/14/bb411451-1506-9635-2ffb-a903a23aa1e8/AppIcon-1x_U007emarketing-85-220-4.png/230x0w.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>io.rnkit.tounahaodai</string>
+				<key>bundle-version</key>
+				<string>1.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>畅快</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
